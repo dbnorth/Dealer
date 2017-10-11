@@ -14,7 +14,7 @@ public class Car {
   private LocalDate dateSold;
   private SalesPerson salesPerson;
   private String serialNumber;
-  
+ // The car class represents a car 
   public Car() {
     
   };
